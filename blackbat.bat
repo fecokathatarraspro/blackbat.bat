@@ -11,5 +11,5 @@ for /l %%x in (1, 1, 100) do (
   color a8
   echo die
   color e2
-  winver
+  notepad
 )
